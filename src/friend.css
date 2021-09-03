@@ -1,0 +1,49 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.Card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: solid black 2px; */
+}
+.Card-data{
+  border: solid red 2px;
+ height: 300px;
+ width: 300px;
+
+}
+html{
+    box-sizing: border-box;
+}
+
+.Friend-div{
+    display: flex;
+    justify-content:space-between;
+    padding: 0 20px;
+    border: 1px solid brown;
+}
+li {
+    list-style-type: none;
+    margin-left: 0;
+}
+ul{
+    margin-left: 0;
+}
+
+.head{
+    background-color: green;
+    color: black;
+
+}
+/* .Button{
+    background-color: red;
+} */
+
+/* input{
+    width: 295px;
+} */
+
